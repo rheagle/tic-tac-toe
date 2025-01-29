@@ -7,7 +7,7 @@ To play this game, you must install Ruby. Once Ruby is installed:
 1. Download a copy of this repository.
 2. Navigate to the directory where the files are located. Example:
 ```bash
-cd ~/../tic-tac-toe
+cd Desktop/RubyRepos/tic-tac-toe
 ```
 3. Copy the following and paste to the command line (Terminal):
   ```bash
